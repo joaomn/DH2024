@@ -1,4 +1,4 @@
-# Hefesto Deployment with Docker Compose
+# Hefesto Deployment com Docker Compose
 
 Este repositório contém o `docker-compose.yaml` necessário para realizar o deploy da aplicação Hefesto em uma VM no Azure.
 
